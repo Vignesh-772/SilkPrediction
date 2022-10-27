@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "974188457485",
+    "firebase_url": "https://silkprediction-default-rtdb.firebaseio.com",
+    "project_id": "silkprediction",
+    "storage_bucket": "silkprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974188457485:android:fb6487708f55e01c96af44",
+        "android_client_info": {
+          "package_name": "com.fashionlabs.silkprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974188457485-32u012eom0mc34c8lcnttovun6h1ria0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fashionlabs.silkprediction",
+            "certificate_hash": "e7c7114e142040517a5ea6d78573d96d755b3279"
+          }
+        },
+        {
+          "client_id": "974188457485-jl8gdavoan0uh3o4ep3k6k3iua4pmbcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fashionlabs.silkprediction",
+            "certificate_hash": "1e0b11ee6c9ded4d0e53501598ce710910b671ec"
+          }
+        },
+        {
+          "client_id": "974188457485-ugg76lnets1bj4hh20iku1u43cn2eqte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw6rwZl66ysjnTuIZnsDnFt-JFvs-tOZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974188457485-ugg76lnets1bj4hh20iku1u43cn2eqte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
